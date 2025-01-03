@@ -53,32 +53,35 @@ This project analyzes the sales and performance data of Blinkit, an online groce
   - **Low-fat items** account for 65% of total sales.
   - **High-fat items** account for 35% of total sales.
  
-<img src="https://github.com/user-attachments/assets/e531fa12-8f99-4ad9-bb52-11abab7bdb99"   width="250" 
-     height="250" />
+<img src="https://github.com/user-attachments/assets/e531fa12-8f99-4ad9-bb52-11abab7bdb99"   width="230" 
+     height="220" />
 - **Recommendation:** Focus on promoting low-fat items as they drive the majority of sales.
 
 ### 2. Clustered Bar Chart: Sales by Outlet Type and Tier
 - **Insight:**
   - **Tier 3 outlets** generate the most sales and revenue (40%, $472k).
   - Most sales in tier 3 outlets are from medium-sized supermarkets selling low-fat items.
-  - ![image](https://github.com/user-attachments/assets/4713e9ec-4a89-4b67-a188-48657645d1f5)
-
+  
+<img src="https://github.com/user-attachments/assets/4713e9ec-4a89-4b67-a188-48657645d1f5"   width="250" 
+     height="200" />
 - **Recommendation:** Expand tier 3 outlets, especially medium-sized supermarket type 3, to capitalize on this trend.
 
 ### 3. Stacked Bar Chart: Sales by Item Type
 - **Insight:**
   - **Fruits and snacks** generate the highest revenue ($175k) and sell the most items (1232).
   - **Seafood** generates the least revenue ($9k) and has the lowest items sold (64).
-  - ![image](https://github.com/user-attachments/assets/c62a3ba6-c8ae-481f-bfa4-e083c6e5de4c)
 
+<img src="https://github.com/user-attachments/assets/c62a3ba6-c8ae-481f-bfa4-e083c6e5de4c"   width="230" 
+     height="320" />
 - **Recommendation:** Increase inventory and promotions for high-demand items like fruits and snacks, and consider reevaluating the strategy for seafood.
 
 ### 4. Line Chart: Sales by Outlet Establishment Year
 - **Insight:**
   - Stores established between 2011 and 2017 show average sales of $130k.
   - Stores established in 2018 perform exceptionally well, with sales of $205k.
-  - ![image](https://github.com/user-attachments/assets/6667fcfc-608f-4638-b621-4f17d5ed3006)
 
+<img src="https://github.com/user-attachments/assets/6667fcfc-608f-4638-b621-4f17d5ed3006"   width="450" 
+     height="280" />
 - **Recommendation:** Investigate best practices from stores established in 2018 and replicate their strategies in older stores.
 
 ### 5. Sales Distribution by Outlet Size
