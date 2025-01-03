@@ -1,23 +1,9 @@
-# Retail-Store-Analysis-Project-PowerBI
+#  Retail Store Analysis - PowerBI
 
 
 Welcome to the **Retail-Store-Analysis** project! This project aims to analyze sales and performance data of a retail company, Blinkit grocery app which is an online store. This project leverages data provided by Data Tutorials(https://topmate.io/data_tutorials). The dataset, originally in Rxcel format, was imported into Power BI for data cleaning, transformation, and visualization.
 
-Through this analysis, we aim to gain insights into product performance, customer behavior, and sales trends to support business decision-making.
-
-
 ---
-
-## 🔧 Tools & Technologies Used
-
-
-- **Power BI**:  
-  Used to perform **Exploratory Data Analysis (EDA)** and visualize the data.  
-  - **Power Query**: Used to **extract**, **transform**, and **clean** the data from Excel datasource.
-  - **DAX Measures**: Used to calculate custom metrics like total sales, average rating , quantity sold, average sales etc.
-
----
-# Power BI Retail Store Analysis
 
 ## Project Overview
 This project analyzes the sales and performance data of Blinkit, an online grocery store, using Power BI. The analysis aims to uncover insights into sales trends, customer satisfaction, inventory distribution, and business optimization opportunities.
@@ -39,12 +25,25 @@ This project analyzes the sales and performance data of Blinkit, an online groce
 ---
 
 ## Key Performance Indicators (KPIs)
-- **Total Sales:** $1.2 million in overall revenue.
-- **Average Sales:** Revenue per sale.
-- **Number of Items Sold:** 1232 (fruits and snacks being the top category).
-- **Customer Rating:** Not analyzed but could be a future KPI.
+- **Total Sales:** Overall revenue from all items sold. $1.2 million in overall revenue.
+- **Average Sales:** Average revenue generated per sale.
+- **Number of Items Sold:** Count of different items sold. 1232 (fruits and snacks being the top category).
+- **Customer Rating:** Average rating for sold items. 
 
 ---
+
+## Business Requirements
+1. **Impact of Fat Content on Sales:**
+   - Analyze the sales contribution from low-fat vs. high-fat items.
+2. **Influence of Establishment Age on Sales:**
+   - Evaluate how the year of establishment correlates with sales performance.
+3. **Outlet Size Analysis:**
+   - Determine the contribution of outlet size to total sales.
+4. **Geographic Sales Distribution:**
+   - Assess sales performance across different location tiers.
+
+---
+
 
 ## Visual Insights
 
@@ -95,17 +94,6 @@ This project analyzes the sales and performance data of Blinkit, an online groce
   - Tier 3 outlets dominate with 40% of total sales, amounting to $472k.
 - **Recommendation:** Strengthen supply chain and inventory management in tier 3 locations to meet demand efficiently.
 
----
-
-## Business Requirements
-1. **Impact of Fat Content on Sales:**
-   - Analyze the sales contribution from low-fat vs. high-fat items.
-2. **Influence of Establishment Age on Sales:**
-   - Evaluate how the year of establishment correlates with sales performance.
-3. **Outlet Size Analysis:**
-   - Determine the contribution of outlet size to total sales.
-4. **Geographic Sales Distribution:**
-   - Assess sales performance across different location tiers.
 
 ---
 
@@ -154,14 +142,6 @@ This project analyzes the sales and performance data of Blinkit, an online groce
 
 ---
 
-## Project Timeline
-| **Phase**             | **Timeline**    | **Deliverables**                       |
-|------------------------|-----------------|----------------------------------------|
-| Data Preparation       | 1 week         | Cleaned dataset ready for analysis     |
-| Data Modeling          | 1 week         | Modeled dataset in Power BI            |
-| Visualization Creation | 2 weeks        | Interactive dashboards and visuals     |
-| Insights Reporting     | 1 week         | Final insights and recommendations     |
 
----
 
 Feel free to copy and paste this into your GitHub repository's README file. Let me know if further customization is required!
