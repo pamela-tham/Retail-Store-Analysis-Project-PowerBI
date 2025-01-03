@@ -129,10 +129,10 @@ This project analyzes the sales and performance data of Blinkit, an online groce
 ---
 
 ## Implementation Plan
-1. **Data Preparation:**
-   - Import and clean the dataset in Power BI.
-2. **Data Modeling:**
-   - Establish relationships between data tables and create calculated fields.
+1. **Data Cleaning and Preparation:**
+   - Import dataset from Excel into Power BI and cleaning.
+2. **Data Transforming:**
+   - Ensuring datatypes are correct and handling inconsistencies.create aggregates Total sales, No of Items, Avg Rating, Avg sales.
 3. **Visualization Development:**
    - Build the required dashboards and charts in Power BI.
 4. **Insights Extraction:**
