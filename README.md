@@ -1,7 +1,7 @@
 #  Retail Store Analysis - PowerBI
 
 
-Welcome to the **Retail-Store-Analysis** project! This project aims to analyze sales and performance data of a retail company, Blinkit grocery app which is an online store. This project leverages data provided by Data Tutorials(https://topmate.io/data_tutorials). The dataset, originally in Rxcel format, was imported into Power BI for data cleaning, transformation, and visualization.
+Welcome to the **Retail-Store-Analysis** project! This project aims to analyze sales and performance data of a retail company, Blinkit grocery app which is an online store. This project leverages data provided by Data Tutorials(https://topmate.io/data_tutorials). The dataset, originally in Excel format, was imported into Power BI for data cleaning, transformation, and visualization.
 
 ---
 
